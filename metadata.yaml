@@ -1,0 +1,38 @@
+_repo: Engines-of-the-Gods_63786
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kiemle, H. W. (Henry William)
+    alias: Kiemle, Henry William
+    birthdate: 1908
+    deathdate: 1969
+    gutenberg_agent_id: '52291'
+    url: http://www.gutenberg.org/2009/agents/52291
+creator:
+  author:
+    agent_name: Fox, Gardner F. (Gardner Francis)
+    aliases:
+    - Moonchild
+    - Purvis, Clement
+    birthdate: 1911
+    deathdate: 1986
+    gutenberg_agent_id: '52538'
+    url: http://www.gutenberg.org/2009/agents/52538
+    wikipedia: https://en.wikipedia.org/wiki/Gardner_Fox
+description: ''
+gutenberg_issued: '2020-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- GITenberg
+title: Engines of the Gods
+url: http://www.gutenberg.org/ebooks/63786
